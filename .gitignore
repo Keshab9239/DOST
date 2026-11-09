@@ -1,0 +1,13 @@
+request.json
+*_backup.py
+main_termux_backup.py
+dost_memory.json
+memory.json
+key.json
+.env
+venv/
+dost-env/
+.buildozer/
+bin/
+__pycache__/
+*.pyc
