@@ -114,7 +114,7 @@ android.permissions = INTERNET,RECORD_AUDIO,POST_NOTIFICATIONS,WAKE_LOCK
 android.api = 35
 
 # (int) Minimum API your APK / AAB will support.
-android.minapi = 23
+android.minapi = 24
 
 # (int) Android SDK version to use
 #android.sdk = 20
