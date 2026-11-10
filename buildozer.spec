@@ -4,6 +4,7 @@
 # See the end of the file for more details and warnings about common mistakes.
 
 [app]
+android.accept_sdk_license = True
 
 # (str) Title of your application
 title = DOST
